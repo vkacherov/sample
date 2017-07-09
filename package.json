@@ -1,0 +1,10 @@
+{
+  "name": "exp",
+  "version": "0.1.0",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-replace": "^0.5.4"
+  }
+}
