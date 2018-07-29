@@ -1,5 +1,5 @@
 
-# Sample Web 
+# Sample Web App 
 
 ## Development
 This sample app uses a number of open source projects to work properly. Before you can build this project, you must install and configure the following dependencies on your machine:
